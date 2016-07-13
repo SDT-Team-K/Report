@@ -120,7 +120,10 @@
 
 ## 表の更新の仕方
 
-// TODO
+1. https://github.com/SDT-Team-K/Report/blob/master/README.md をブラウザで表示する
+2. 「Edit this file」リンクを押下する（鉛筆アイコン）
+3. 進捗表を更新する
+4. 「Commit Changes」ボタンを押下する
 
 ## 技能編
 
