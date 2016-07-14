@@ -136,7 +136,7 @@
 | H.H. |  | [サンプル１](http://smartdt.jp) |  |
 | S.I. |  |  |  |
 | T.A. |  |  |  |
-| K.K. |  |  |  |
+| K.K. | UITableViewにまつわるあれこれ | [K.K/July](https://github.com/SDT-Team-K/Exam-Samples/tree/master/K.K/July) |  |
 | K.E. |  |  |  |
 
 
